@@ -11,16 +11,6 @@ A comprehensive framework for UAV trajectory prediction combining adaptive Unsce
 - **Real-time Performance**: Optimized for real-time trajectory prediction with sub-10ms processing times
 - **Comprehensive Evaluation**: Includes 7 baseline methods for thorough performance comparison
 
-## 📋 Table of Contents
-
-- [Architecture Overview](#architecture-overview)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [File Descriptions](#file-descriptions)
-- [Experimental Results](#experimental-results)
-- [Citation](#citation)
-- [License](#license)
-
 ## 🏗️ Architecture Overview
 
 ### Core Components
